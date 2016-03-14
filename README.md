@@ -3,9 +3,11 @@ A collection of Unity Input Resources
 
 ## Free
 
-[Input (InputManager by Daemon3000)](https://github.com/daemon3000/InputManager)
+[Unity Input Wrapper (InputManager by Daemon3000)](https://github.com/daemon3000/InputManager)
 
 [Gesture Detection (TouchKit by Prime31)](https://github.com/prime31/TouchKit)
+
+[XInput for Homebrew (XInputDotNet by speps)](https://github.com/speps/XInputDotNet)
 
 ## Paid
 
